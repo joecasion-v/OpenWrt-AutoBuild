@@ -27,7 +27,7 @@
 |  Nanopi-R4S  |  ![Nanopi-R4S](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/Nanopi-R4S-Openwrt?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3ANanopi-R4S-Openwrt"><img src="https://img.shields.io/badge/Actions-R4S-blueviolet?style=flat-square" alt="R4S"></a>  |
 |  ARMv8通用镜像  |  ![ARMv8](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/ARMv8-Multiplatform?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AARMv8-Multiplatform"><img src="https://img.shields.io/badge/Actions-ARMv8-blueviolet?style=flat-square" alt="ARMv8"></a>  |
 
-## 主要包含插件列表
+## 主要添加的功能
 固件满足基本的上网/代理需求，暂不过多添加其他功能。
 
 * Luci-app-ssr-plus [fw876/helloworld](https://github.com/fw876/helloworld)
@@ -35,6 +35,8 @@
 * Luci-app-passwall [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)
 
 * Luci-app-openclash [vernesong/Openclash](https://github.com/vernesong/OpenClash)
+
+* 本地版sub-web  [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 * Luci-app-smartdns [pymumu/smartdns](https://github.com/pymumu/smartdns)
 
