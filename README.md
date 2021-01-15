@@ -1,5 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=viewers) ![GitHub all releases](https://img.shields.io/github/downloads/stephensund/OpenWrt-AutoBuild/total?style=flat-square)
 ## 更新日志
+2021.1.16 由于新版Docker存在已知兼容性问题，R4S先暂不编译Docker类组件
 2021.1.15 新增本地版sub-web  [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 ## 简介
 编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)或Release页面[Releases](https://github.com/stephensund/OpenWrt-AutoBuild/releases)自行下载，同时对应的Workflow页面和Release页面会有**奶牛快传**和**WeTransfer**的下载链接（由于奶牛快传政策调整，免费用户上传仅1天有效期）
