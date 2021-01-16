@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=viewers) ![GitHub all releases](https://img.shields.io/github/downloads/stephensund/OpenWrt-AutoBuild/total?style=flat-square)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors) ![GitHub all releases](https://img.shields.io/github/downloads/stephensund/OpenWrt-AutoBuild/total?style=flat-square)
 ## 更新日志
 2021.1.16 由于新版Docker存在已知兼容性问题，R4S先暂不编译Docker类组件   
 2021.1.15 新增本地版sub-web  [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
